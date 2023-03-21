@@ -1,21 +1,24 @@
 {
-  "name": "resta-server",
+  "name": "dog-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mock-7",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SachinMasai/resta-server.git"
+    "url": "git+https://github.com/SachinMasai/Dog-Api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SachinMasai/resta-server/issues"
+    "url": "https://github.com/SachinMasai/Dog-Api/issues"
   },
-  "homepage": "https://github.com/SachinMasai/resta-server#readme"
+  "homepage": "https://github.com/SachinMasai/Dog-Api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
