@@ -42,14 +42,14 @@
   "users": [
     {
       "id": 1,
-      "username": "ankita",
-      "email": "ankita@gmail.com",
+      "username": "Sachin",
+      "email": "sachin@gmail.com",
       "password": "12345"
     },
     {
       "id": 2,
-      "username": "vishal",
-      "email": "vishal@gmail.com",
+      "username": "golu",
+      "email": "golu@gmail.com",
       "password": "12345"
     }
   ]
