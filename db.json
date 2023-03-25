@@ -52,9 +52,7 @@
       "email": "golu@gmail.com",
       "password": "12345"
     }
-  ]
- 
-   
+  ],
     "recipes":[
         {
             "id" : 1,
