@@ -16,7 +16,77 @@
   ],
    
    "recipes":[
-     
     
+    {
+        "type": "Income",
+        "category": "Salary",
+        "amount": "2200",
+        "date": "2222-06-25",
+        "id": 1
+      },
+      {
+        "type": "Income",
+        "category": "Salary",
+        "amount": "1500",
+        "date": "2023-03-30",
+        "id": 2
+      },
+      {
+        "type": "Income",
+        "category": "Gifts",
+        "amount": "1600",
+        "date": "2023-03-31",
+        "id": 3
+      },
+      {
+        "type": "Income",
+        "category": "Refunds",
+        "amount": "1700",
+        "date": "2023-03-29",
+        "id": 4
+      },
+      {
+        "type": "Income",
+        "category": "Other",
+        "amount": "1800",
+        "date": "2023-03-28",
+        "id": 5
+      },
+      {
+        "type": "Expense",
+        "category": "Other",
+        "amount": "1000",
+        "date": "2023-03-02",
+        "id": 6
+      },
+      {
+        "type": "Expense",
+        "category": "Shopping",
+        "amount": "1100",
+        "date": "2023-03-03",
+        "id": 7
+      },
+      {
+        "type": "Expense",
+        "category": "Housing",
+        "amount": "1200",
+        "date": "2023-03-05",
+        "id": 8
+      },
+      {
+        "type": "Expense",
+        "category": "Bills",
+        "amount": "1300",
+        "date": "2023-03-06",
+        "id": 9
+      },
+      {
+        "type": "Expense",
+        "category": "Vehicle & Transport",
+        "amount": "1700",
+        "date": "2023-03-06",
+        "id": 10
+      }
+
    ]
 }
