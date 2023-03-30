@@ -39,6 +39,14 @@
         "ticket": 200
       }
   ],
+   "tracker":[
+      {   "id":1,
+          type: 'Income',
+    category: 'Salary',
+    amount: 500,
+    date: 30/3/23,
+   }
+   ],
   "users": [
     {
       "id": 1,
