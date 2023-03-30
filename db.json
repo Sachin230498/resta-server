@@ -56,10 +56,64 @@
    
     "recipes":[
         {
+        "type": "Income",
+        "category": "Salary",
+        "amount": "600",
+        "date": "2023-03-29"
+       } ,  
+       {
+        "type": "Income",
+        "category": "Gifts",
+        "amount": "500",
+        "date": "2023-03-25"
+       } , 
+       {
+        "type": "Income",
+        "category": "Refunds",
+        "amount": "700",
+        "date": "2023-03-28"
+       } ,   {
+        "type": "Income",
+        "category": "Other",
+        "amount": "900",
+        "date": "2023-03-24"
+       } , 
+       {
         "type": "Expense",
         "category": "Shopping",
-        "amount": "500",
-        "date": "2023-03-29",
-       }    
+        "amount": "1500",
+        "date": "2023-03-2"
+       } ,
+       {
+        "type": "Expense",
+        "category": "Housing",
+        "amount": "1100",
+        "date": "2023-03-21"
+       } ,
+       {
+        "type": "Expense",
+        "category": "Food & Drinks",
+        "amount": "1500",
+        "date": "2023-03-22"
+       } ,
+       {
+        "type": "Expense",
+        "category": "Bills",
+        "amount": "1800",
+        "date": "2023-03-5"
+       } ,
+       {
+        "type": "Expense",
+        "category": "Vehicle & Transport",
+        "amount": "1900",
+        "date": "2023-03-9"
+       } ,
+       {
+        "type": "Expense",
+        "category": "Lifestyle",
+        "amount": "2100",
+        "date": "2023-03-12"
+       } 
+       
       ]  
 }
