@@ -1,92 +1,166 @@
 {
- 
-    "users": [
+  "foods": [
     {
-      "id": 1,
-      "username": "Sachin",
-      "email": "sachin@gmail.com",
-      "password": "12345"
+      "name": "Pasta Carbonara",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/WhiteSaucePasta5-1.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Spaghetti",
+        "Eggs",
+        "Pancetta",
+        "Parmesan Cheese",
+        "Black Pepper",
+        "Salt",
+        "Garlic",
+        "Olive Oil"
+      ]
     },
     {
-      "id": 2,
-      "username": "golu",
-      "email": "golu@gmail.com",
-      "password": "12345"
-    }
-  ],
-   
-   "recipes":[
-    
+      "name": "Chicken Curry",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/ChickenCurry.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Tomato",
+        "Coconut Milk",
+        "Ginger",
+        "Garlic",
+        "Curry Powder",
+        "Chili",
+        "Coriander",
+        "Cumin",
+        "Turmeric",
+        "Salt"
+      ]
+    },
     {
-        "type": "Income",
-        "category": "Salary",
-        "amount": "2200",
-        "date": "2222-06-25",
-        "id": 1
-      },
-      {
-        "type": "Income",
-        "category": "Salary",
-        "amount": "1500",
-        "date": "2023-03-30",
-        "id": 2
-      },
-      {
-        "type": "Income",
-        "category": "Gifts",
-        "amount": "1600",
-        "date": "2023-03-31",
-        "id": 3
-      },
-      {
-        "type": "Income",
-        "category": "Refunds",
-        "amount": "1700",
-        "date": "2023-03-29",
-        "id": 4
-      },
-      {
-        "type": "Income",
-        "category": "Other",
-        "amount": "1800",
-        "date": "2023-03-28",
-        "id": 5
-      },
-      {
-        "type": "Expense",
-        "category": "Other",
-        "amount": "1000",
-        "date": "2023-03-02",
-        "id": 6
-      },
-      {
-        "type": "Expense",
-        "category": "Shopping",
-        "amount": "1100",
-        "date": "2023-03-03",
-        "id": 7
-      },
-      {
-        "type": "Expense",
-        "category": "Housing",
-        "amount": "1200",
-        "date": "2023-03-05",
-        "id": 8
-      },
-      {
-        "type": "Expense",
-        "category": "Bills",
-        "amount": "1300",
-        "date": "2023-03-06",
-        "id": 9
-      },
-      {
-        "type": "Expense",
-        "category": "Vehicle & Transport",
-        "amount": "1700",
-        "date": "2023-03-06",
-        "id": 10
-      }
-
-   ]
+      "name": "Cheeseburger",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/Cheeseburger.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Beef Patty",
+        "Cheese",
+        "Burger Buns",
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Ketchup",
+        "Mustard",
+        "Salt",
+        "Black Pepper"
+      ]
+    },
+    {
+      "name": "Caesar Salad",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/CaesarSalad.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Romaine Lettuce",
+        "Croutons",
+        "Parmesan Cheese",
+        "Caesar Dressing",
+        "Black Pepper",
+        "Salt",
+        "Lemon Juice",
+        "Olive Oil",
+        "Garlic"
+      ]
+    },
+    {
+      "name": "Sushi Roll",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/SushiRoll.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Sushi Rice",
+        "Nori Seaweed",
+        "Raw Fish (e.g., Tuna, Salmon)",
+        "Cucumber",
+        "Avocado",
+        "Soy Sauce",
+        "Wasabi",
+        "Pickled Ginger"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/MargheritaPizza.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Mozzarella Cheese",
+        "Fresh Basil Leaves",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper"
+      ]
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/ChickenNoodleSoup.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Chicken",
+        "Egg Noodles",
+        "Carrots",
+        "Celery",
+        "Onion",
+        "Garlic",
+        "Chicken Broth",
+        "Bay Leaf",
+        "Thyme",
+        "Salt",
+        "Black Pepper"
+      ]
+    },
+    {
+      "name": "Berry Smoothie",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/BerrySmoothie.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Mixed Berries (Strawberries, Blueberries, Raspberries)",
+        "Yogurt",
+        "Banana",
+        "Honey",
+        "Milk (or Almond Milk)",
+        "Ice Cubes"
+      ]
+    },
+    {
+      "name": "Beef Stir-Fry",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/BeefStirFry.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "Beef Strips",
+        "Broccoli",
+        "Bell Peppers",
+        "Carrots",
+        "Soy Sauce",
+        "Oyster Sauce",
+        "Garlic",
+        "Ginger",
+        "Cornstarch",
+        "Sesame Oil",
+        "Cooking Oil",
+        "Rice (for serving)"
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "img": "https://www.sharmispassions.com/wp-content/uploads/2020/03/ChocolateChipCookies.jpg",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "ingredients": [
+        "All-Purpose Flour",
+        "Butter",
+        "Brown Sugar",
+        "Granulated Sugar",
+        "Eggs",
+        "Vanilla Extract",
+        "Baking Soda",
+        "Salt",
+        "Chocolate Chips"
+      ]
+    }
+  ]
 }
